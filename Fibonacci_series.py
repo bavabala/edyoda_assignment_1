@@ -6,5 +6,5 @@ while s<50:
 
 #Here,print the value s:
     print(s)
-#Here the fibonacci series syntax,
+#Here the fibonacci series logic:
     f,s=s,f+s
